@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
+### I am Anusha Bhat :woman_technologist:
+🌱 I’m currently learning Golang <br>
+💬 Ask me about JavaScript, Ruby <br>
+:female_sign:  Pronouns:  she/her/hers <br>
+  📫 How to reach me: 
+      <a href= "https://twitter.com/alien_billi"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+      <a href= "https://dev.to/anusha_bhat"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+      <a href= "https://www.linkedin.com/in/anusha-bhat-813b4988/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <!--
 **A9u/A9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

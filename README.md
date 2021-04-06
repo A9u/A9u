@@ -9,7 +9,7 @@
       <a href= "https://dev.to/anusha_bhat"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
       <a href= "https://www.linkedin.com/in/anusha-bhat-813b4988/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
       
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A9u&show_icons=true&theme=blueberry&count_private=true" alt="A9u" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A9u&theme=blueberry&langs_count=4"></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A9u&show_icons=true&theme=blueberry&count_private=true" alt="A9u" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A9u&theme=blueberry&langs_count=4"></p>
 
 <!--
 **A9u/A9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

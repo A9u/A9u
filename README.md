@@ -6,7 +6,6 @@
 :female_sign:  Pronouns:  she/her/hers <br>
   📫 How to reach me:
       <a href= "https://twitter.com/alien_billi"><img src="https://img.icons8.com/30/2266ee/twitter.png"/></a>
-      <a href= "https://dev.to/anusha_bhat"><img src="https://img.icons8.com/windows/32/ffffff/dev.png"/></a>
     
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A9u&show_icons=true&theme=blueberry&count_private=true" alt="A9u" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A9u&theme=blueberry&langs_count=4"></p>
 
